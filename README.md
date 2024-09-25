@@ -7,6 +7,8 @@ _For more information about the Reserve please refer to:_
 - [reserve.mento.org](https://reserve.mento.org)
 - [Stability WhitePaper](https://celo.org/papers/stability)
 
+- Commit to main
+
 ## Updating Reserve
 
 - To Add new cStables see [adding stablecoins](/adding-stablecoins.md)
